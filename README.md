@@ -16,7 +16,7 @@ In the first phase of the project, we looked at quite a lot of public data, whic
 
 All datasets we consider can be found [here](https://disk.yandex.ru/d/jv8JiSWiSqao5w). 
 
-The list and main characteristics of the datasets we reviewed can be found [here](https://docs.google.com/spreadsheets/d/1JILNPfSjYnumt_GqDQ4rmgW3Zxeg6KEhkaFU21vOVyI/edit#gid=0). And the analysis of these datasets is in `EDA/EDA_other_datasets.ipynb`.
+The list and main characteristics of the datasets we reviewed can be found [here](https://docs.google.com/spreadsheets/d/1JILNPfSjYnumt_GqDQ4rmgW3Zxeg6KEhkaFU21vOVyI/edit#gid=0). And the analysis of these datasets is in `EDA/EDA_other_datasets`.
 
 Among these data we have selected __ETT__ dataset, which "contains the 7 indicators of an electricity transformer in two years, including oil temperature, useful load, etc." and is convenient for analysis, as it contains rather diverse time series, containing both trend and seasonality, and also has rather frequent granularity (15 minutes). Its analysis is located separately in `EDA/EDA_ETT.ipynb`.
 

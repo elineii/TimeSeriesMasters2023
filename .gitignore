@@ -146,4 +146,4 @@ cython_debug/
 temp/
 catboost_info/
 poetry.lock
-.csv
+*.csv
