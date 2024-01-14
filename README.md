@@ -12,7 +12,7 @@ Since our project is aimed at developing a tool for time series forecasting, we 
 In the first phase of the project, we looked at quite a lot of public data, which can be categorized into two sources:
 1. [Monash Time Series Repository](https://forecastingdata.org/) ([Godahewa (et al.), 2021](https://arxiv.org/abs/2105.06643)):
 2. [Datasets](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) that are most commonly found in articles about state-of-the-art architectures.
-    - __NOTE__: The data in the Monash Repository is initially provided in .tsv format. There is a function in `data/data_formatting.py` to convert them to .csv format ([source]: (https://github.com/rakshitha123/TSForecasting/blob/master/utils/data_loader.py)). There is also a function that translates datasets from the second item into the required format.
+    - __NOTE__: The data in the Monash Repository is initially provided in .tsv format. There is a function in `data/data_formatting.py` to convert them to .csv format ([source](https://github.com/rakshitha123/TSForecasting/blob/master/utils/data_loader.py)). There is also a function that translates datasets from the second item into the required format.
 
 All datasets we consider can be found [here](https://disk.yandex.ru/d/jv8JiSWiSqao5w). 
 
