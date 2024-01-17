@@ -6,7 +6,7 @@ The project has two objectives:
 1. to investigate possible multi-point-ahead prediction strategies in the presence of one or many time series in a dataset;
 2. to finalize an open-source [time series analysis tool](https://github.com/sb-ai-lab/tsururu).
 
-## Data Description:
+## Data Description
 Since our project is aimed at developing a tool for time series forecasting, we needed to find data on which we could conveniently and clearly demonstrate certain features of the tool.
 
 In the first phase of the project, we looked at quite a lot of public data, which can be categorized into two sources:
